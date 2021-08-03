@@ -1,0 +1,5 @@
+burgerbot/__pycache__
+burgerbot/spiders/__pycache__
+burgerbot/spiders/__pycache__/
+burgerbot/__pycache__/
+.DS_Store burgerbot/.DS_Store burgerbot/spiders/.DS_Store
