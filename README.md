@@ -32,3 +32,6 @@ Sources:\
 https://www.twilio.com/docs/whatsapp/quickstart/python \
 https://docs.scrapy.org/en/latest/
 https://ostechnix.com/a-beginners-guide-to-cron-jobs/
+
+## License
+For license information go to the LICENSE file 
